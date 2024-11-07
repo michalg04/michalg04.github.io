@@ -7,7 +7,7 @@ author_profile: true
 #   - "/research"
 ---
 
-**Topics:** multi-modal learning, deep learning, explainability, and biomedical applications of machine learning
+**Topics:** multimodal learning, mechanistic intepretability, deep learning, explainability,  and biomedical applications of deep learning
 
 ---
 
@@ -16,7 +16,7 @@ Explainabile and Scalable Multi-modal Learning
 **Brown University, 2021 - Current**  
 *Advisors: Ritambhara Singh and Carsten Eickhoff*
 
-I am researching methods in attention-based deep learning to make multi-modal algorithms more scalable and explainable. 
+I am researching methods in attention-based deep learning to make multimodal algorithms more scalable and explainable. 
 
 ---
 
