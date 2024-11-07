@@ -7,10 +7,16 @@ redirect_from:
   - /about
   - /about.html
 ---
-I am a third year PhD Candidate at Brown University co-advised by Carsten Eickhoff in the [Health NLP Lab](https://health-nlp.com/index.html) and Ritambhara Singh in the [Singh Lab](https://rsinghlab.org/). My research interests include multi-modal learning, explainability, and biomedical applications of machine learning. I received my B.S. in Applied Mathematics, concentrating in Computer Science and Statistics, with a minor in Data Science from California Polytechnic State University, SLO. In my spare time, I enjoy being outdoors, cooking, and playing with my dog.
+I am a fourth year PhD Candidate at Brown University co-advised by Carsten Eickhoff in the [Health NLP Lab](https://health-nlp.com/index.html) and Ritambhara Singh in the [Singh Lab](https://rsinghlab.org/). My research interests include multimodal learning, mechanistic intepretability, and biomedical applications of deep learning. I received my B.S. in Applied Mathematics, concentrating in Computer Science and Statistics, with a minor in Data Science from California Polytechnic State University, SLO. In my spare time, I enjoy being outdoors, cooking, and playing with my dog.
 
 Recent News 
 ======
+* 09/09/2024 - [OvO](https://arxiv.org/abs/2307.05435) accepted as poster and oral at [Pacific Symposium on Biocomputing](https://psb.stanford.edu/callfor/papers/)!
+* 07/27/2024 - Presented [OvO](https://arxiv.org/abs/2307.05435) at ICML 2024: [video recording](https://icml.cc/virtual/2024/38284)
+* 06/24/2024 - Released our new paper - [What Do VLMs NOTICE? A Mechanistic Interpretability Pipeline for Gaussian-Noise-free Text-Image Corruption and Evaluation](https://arxiv.org/abs/2406.16320)
+* 06/17/2024 - [OvO](https://arxiv.org/abs/2307.05435) selected for a spotlight at ICML 2024 [AccMLBio](https://accml.bio/index.html#acceptedpapers)!
+* 06/10/2024 - Started my research scientist internship at Amazon Web Services, working on the unifyication of retrievers and generators in RAG systems 
+* 04/03/2024 - Gave a lecture on CLIP for the Deep Learning Course at Brown - [slides](https://brown-deep-learning.github.io/dl-website-s24/slides/lecture26.pdf)
 * 07/26/2023 - Attended ICML 2023
 * 05/28/2023 - Received my M.S. in Computer Science and advanced to candidacy (Brown University)
 * 04/18/2023 - Presented a poster on [One-Versus-Others Attention: Scalable Multimodal Integration](https://arxiv.org/abs/2307.05435) at NENLP 2023
@@ -23,4 +29,4 @@ Recent News
 * 05/01/2020 - Awarded the Robert P. Balles Award for Graduating Senior Mathematical Excellence
 * 06/01/2019 - Awarded William and Linda Frost Research Grant  
 
-*Last updated Augusty 25th, 2023*
+*Last updated November, 2024*
