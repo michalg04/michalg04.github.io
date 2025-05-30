@@ -11,6 +11,11 @@ I am a fourth year PhD Candidate at Brown University co-advised by Carsten Eickh
 
 Recent News 
 ======
+* 05/19/2025 - Pixels Versus Priors: Controlling Knowledge Priors in Vision-Language Models through Visual Counterfacts is out now! https://arxiv.org/abs/2505.17127
+* 05/16/2025 - Our work showing that mutlimodal large language models (MLLMs) are shape-blind, was accepted to ACL 2025! Check it out here: https://arxiv.org/abs/2502.15969
+* 04/30/2025 - Presented [NOTICE](https://aclanthology.org/2025.naacl-long.571/) at NAACL 2025, in New Mexico
+* 01/23/2025 - Our work on mechanistic interpretability in vision-language models, [NOTICE](https://aclanthology.org/2025.naacl-long.571/), was accepted to NAACL 2025! 
+* 01/07/2025 - Presented [OvO](https://psb.stanford.edu/psb-online/proceedings/psb25/golovanevsky.pdf at [Pacific Symposium on Biocomputing](https://psb.stanford.edu/callfor/papers/) in Kona, Hawaii
 * 09/09/2024 - [OvO](https://arxiv.org/abs/2307.05435) accepted as poster and oral at [Pacific Symposium on Biocomputing](https://psb.stanford.edu/callfor/papers/)!
 * 07/27/2024 - Presented [OvO](https://arxiv.org/abs/2307.05435) at ICML 2024: [video recording](https://icml.cc/virtual/2024/38284)
 * 06/24/2024 - Released our new paper - [What Do VLMs NOTICE? A Mechanistic Interpretability Pipeline for Gaussian-Noise-free Text-Image Corruption and Evaluation](https://arxiv.org/abs/2406.16320)
@@ -29,4 +34,4 @@ Recent News
 * 05/01/2020 - Awarded the Robert P. Balles Award for Graduating Senior Mathematical Excellence
 * 06/01/2019 - Awarded William and Linda Frost Research Grant  
 
-*Last updated November, 2024*
+*Last updated May 31th, 2025*
