@@ -11,8 +11,8 @@ I am a fourth year PhD Candidate at Brown University co-advised by Carsten Eickh
 
 Recent News 
 ======
-* 05/19/2025 - Pixels Versus Priors: Controlling Knowledge Priors in Vision-Language Models through Visual Counterfacts is out now! https://arxiv.org/abs/2505.17127
-* 05/16/2025 - Our work showing that mutlimodal large language models (MLLMs) are shape-blind, was accepted to ACL 2025! Check it out here: https://arxiv.org/abs/2502.15969
+* 05/19/2025 - [Pixels Versus Priors: Controlling Knowledge Priors in Vision-Language Models through Visual Counterfacts](https://arxiv.org/abs/2505.17127) is out now!
+* 05/16/2025 - Our work showing that mutlimodal large language models (MLLMs) are "shape-blind", was accepted to ACL 2025! Check it out [here](https://arxiv.org/abs/2502.15969). 
 * 04/30/2025 - Presented [NOTICE](https://aclanthology.org/2025.naacl-long.571/) at NAACL 2025, in New Mexico
 * 01/23/2025 - Our work on mechanistic interpretability in vision-language models, [NOTICE](https://aclanthology.org/2025.naacl-long.571/), was accepted to NAACL 2025! 
 * 01/07/2025 - Presented [OvO](https://psb.stanford.edu/psb-online/proceedings/psb25/golovanevsky.pdf at [Pacific Symposium on Biocomputing](https://psb.stanford.edu/callfor/papers/) in Kona, Hawaii
