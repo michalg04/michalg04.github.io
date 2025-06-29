@@ -5,7 +5,7 @@ collection: publications
 permalink: /publication/2025-05-01-pixels_vs_priors
 excerpt: ''
 date: 2025-05-01
-venue: 'Journal of the American Medical Informatics Association, Volume 29, Issue 12'
+venue: 'Under Review'
 paperurl: 'https://arxiv.org/abs/2505.17127'
 #citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---

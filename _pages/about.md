@@ -11,6 +11,7 @@ I am a fourth year PhD Candidate at Brown University co-advised by Carsten Eickh
 
 Recent News 
 ======
+* 05/26/2025 - Had a great time giving a talk at the NLP Research Lab at the Technion. Thanks to Prof. Yonatan Belinkov and the lab for the invitation and for hosting me!
 * 05/19/2025 - [Pixels Versus Priors: Controlling Knowledge Priors in Vision-Language Models through Visual Counterfacts](https://arxiv.org/abs/2505.17127) is out now!
 * 05/16/2025 - Our work showing that mutlimodal large language models (MLLMs) are "shape-blind", was accepted to ACL 2025! Check it out [here](https://arxiv.org/abs/2502.15969). 
 * 04/30/2025 - Presented [NOTICE](https://aclanthology.org/2025.naacl-long.571/) at NAACL 2025, in New Mexico
