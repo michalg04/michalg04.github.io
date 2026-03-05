@@ -7,16 +7,20 @@ redirect_from:
   - /about
   - /about.html
 ---
-I am a fourth year PhD Candidate at Brown University co-advised by Carsten Eickhoff in the [Health NLP Lab](https://health-nlp.com/index.html) and Ritambhara Singh in the [Singh Lab](https://rsinghlab.org/). My research interests include multimodal learning, mechanistic intepretability, and biomedical applications of deep learning. I received my B.S. in Applied Mathematics, concentrating in Computer Science and Statistics, with a minor in Data Science from California Polytechnic State University, SLO. In my spare time, I enjoy being outdoors, cooking, and playing with my dog.
+I am a post-doc at Harvard Medical School, advised by Danielle Bitterman in the [Bitterman Lab](https://www.bittermanlab.org/). My current research focus is on the intersection of interpretability and healthcare in vision-language models. In January of 2026, I finished my PhD at Brown University co-advised by Carsten Eickhoff in the [Health NLP Lab](https://health-nlp.com/index.html) and Ritambhara Singh in the [Singh Lab](https://rsinghlab.org/). My broader research interests include multimodal learning, mechanistic intepretability, and biomedical applications of deep learning. I received my B.S. in Applied Mathematics, concentrating in Computer Science and Statistics, with a minor in Data Science from California Polytechnic State University, SLO. In my spare time, I enjoy being outdoors, cooking, and playing with my dog.
 
 Recent News 
 ======
-* 05/26/2025 - Had a great time giving a talk at the NLP Research Lab at the Technion. Thanks to Prof. Yonatan Belinkov and the lab for the invitation and for hosting me!
-* 05/19/2025 - [Pixels Versus Priors: Controlling Knowledge Priors in Vision-Language Models through Visual Counterfacts](https://arxiv.org/abs/2505.17127) is out now!
-* 05/16/2025 - Our work showing that mutlimodal large language models (MLLMs) are "shape-blind", was accepted to ACL 2025! Check it out [here](https://arxiv.org/abs/2502.15969). 
+* 01/30/2026 - Successfully defended my thesis, Advancing Attention Mechanisms in Multimodal Deep Learning Models
+* 01/08/2026 - Our work, [Mechanisms of Prompt-Induced Hallucination in Vision–Language Models](https://arxiv.org/pdf/2601.05201) is out now!
+* 09/18/2025 - Proposed my thesis, Advancing Attention Mechanisms in Multimodal Deep Learning Models
+* 08/14/2025 - Accepted post-doc position at the [Bitterman Lab](https://www.bittermanlab.org/)!
+* 07/27/2025 - Presented [Forgotten Polygons](https://aclanthology.org/2025.findings-acl.620/) at ACL 2025, in Vienna
+* 05/19/2025 - Pixels Versus Priors: Controlling Knowledge Priors in Vision-Language Models through Visual Counterfacts is out now! https://arxiv.org/abs/2505.17127
+* 05/16/2025 - Our work showing that mutlimodal large language models (MLLMs) are shape-blind, was accepted to ACL 2025! Check it out here: https://arxiv.org/abs/2502.15969
 * 04/30/2025 - Presented [NOTICE](https://aclanthology.org/2025.naacl-long.571/) at NAACL 2025, in New Mexico
 * 01/23/2025 - Our work on mechanistic interpretability in vision-language models, [NOTICE](https://aclanthology.org/2025.naacl-long.571/), was accepted to NAACL 2025! 
-* 01/07/2025 - Presented [OvO](https://psb.stanford.edu/psb-online/proceedings/psb25/golovanevsky.pdf) at [Pacific Symposium on Biocomputing](https://psb.stanford.edu/callfor/papers/) in Kona, Hawaii
+* 01/07/2025 - Presented [OvO](https://psb.stanford.edu/psb-online/proceedings/psb25/golovanevsky.pdf at [Pacific Symposium on Biocomputing](https://psb.stanford.edu/callfor/papers/) in Kona, Hawaii
 * 09/09/2024 - [OvO](https://arxiv.org/abs/2307.05435) accepted as poster and oral at [Pacific Symposium on Biocomputing](https://psb.stanford.edu/callfor/papers/)!
 * 07/27/2024 - Presented [OvO](https://arxiv.org/abs/2307.05435) at ICML 2024: [video recording](https://icml.cc/virtual/2024/38284)
 * 06/24/2024 - Released our new paper - [What Do VLMs NOTICE? A Mechanistic Interpretability Pipeline for Gaussian-Noise-free Text-Image Corruption and Evaluation](https://arxiv.org/abs/2406.16320)
@@ -35,4 +39,4 @@ Recent News
 * 05/01/2020 - Awarded the Robert P. Balles Award for Graduating Senior Mathematical Excellence
 * 06/01/2019 - Awarded William and Linda Frost Research Grant  
 
-*Last updated May 31th, 2025*
+*Last updated March 5th, 2026*
