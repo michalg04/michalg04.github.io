@@ -7,7 +7,7 @@ redirect_from:
   - /about
   - /about.html
 ---
-I am a post-doc at Harvard Medical School, advised by Danielle Bitterman in the [Bitterman Lab](https://www.bittermanlab.org/). My current research focus is on the intersection of interpretability and healthcare in vision-language models. In January of 2026, I finished my PhD at Brown University co-advised by Carsten Eickhoff in the [Health NLP Lab](https://health-nlp.com/index.html) and Ritambhara Singh in the [Singh Lab](https://rsinghlab.org/). My broader research interests include multimodal learning, mechanistic intepretability, and biomedical applications of deep learning. I received my B.S. in Applied Mathematics, concentrating in Computer Science and Statistics, with a minor in Data Science from California Polytechnic State University, SLO. In my spare time, I enjoy being outdoors, cooking, and playing with my dog.
+I am a post-doc at Harvard Medical School, advised by Dr. Danielle Bitterman in the [Bitterman Lab](https://www.bittermanlab.org/). My current research focus is on the intersection of interpretability and healthcare in vision-language models. In January of 2026, I finished my PhD at Brown University co-advised by Dr. Carsten Eickhoff in the [Health NLP Lab](https://health-nlp.com/index.html) and Dr. Ritambhara Singh in the [Singh Lab](https://rsinghlab.org/). My broader research interests include multimodal learning, mechanistic intepretability, and biomedical applications of deep learning. I received my B.S. in Applied Mathematics, concentrating in Computer Science and Statistics, with a minor in Data Science from California Polytechnic State University, SLO. In my spare time, I enjoy being outdoors, cooking, and playing with my dog.
 
 Recent News 
 ======
